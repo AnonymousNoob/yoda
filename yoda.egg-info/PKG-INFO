@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: yoda
+Version: 0.1
+Summary: A Self Manged lightweight Repo Manager
+Home-page: https://github.com/AnonymousNoob/yoda
+Author: Praveen M
+Author-email: praveenmxy@gmail.com
+License: UNKNOWN
+Description: # yoda
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
