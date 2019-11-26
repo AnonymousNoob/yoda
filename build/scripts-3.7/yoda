@@ -1,0 +1,5 @@
+echo "Yoda FTW!"
+if [ "$1" == "diff" ];
+then
+    python src/util/_git_/diff.py $2 $3
+fi
