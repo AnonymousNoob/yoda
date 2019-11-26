@@ -2,7 +2,7 @@
 import argparse
 
 __author__ = "Praveen M"
-__version__ = "v0.1"
+__version__ = "0.1.0"
 
 
 """
